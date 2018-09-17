@@ -1,7 +1,7 @@
 # chartJS
 Combine mariaDB, PHP &amp; chartJS
 
-## Prepare a lamp stack 
+## prepare a lamp stack 
 
 * ensure mariaDB is up and running
 * ensure httpd web server is up and running
@@ -87,7 +87,7 @@ Receiving objects: 100% (9/9), 6.02 KiB | 0 bytes/s, done.
 [fli@lamp_testing html]$
 ```
 
-## test http://<hostname or host ip address>/index.php
+## test http://`<`hostname or host ip address`>`/index.php
 
 ![Alt 'Screenshot of testing chart'](chartjs.png?raw=true "The testing chart")
 
